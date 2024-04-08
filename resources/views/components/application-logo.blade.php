@@ -1,0 +1,1 @@
+<img src="{{asset('/upload/logo.png')}}"  class="rounded-full" width="70px" height="70px" style="opacity: .8">
